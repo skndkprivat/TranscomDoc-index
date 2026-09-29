@@ -2,6 +2,16 @@
   "version": 1,
   "workspaces": [
     {
+      "genesysOrgId": "68bdfc28-425f-4558-b8b9-75aa2731968c",
+      "genesysOrgName": "Atlas",
+      "alias": "transcom",
+      "label": "Transcom Atlas",
+      "region": "eu-central-1",
+      "repository": "https://github.com/skndkprivat/TranscomDoc-transcom.git",
+      "updatedAt": "2026-09-29T09:55:19.396Z",
+      "updatedBy": "skn_d"
+    },
+    {
       "genesysOrgId": "9a332cae-9b4f-4103-9467-f03da72e15cc",
       "genesysOrgName": "Titan",
       "alias": "transcomtitan",

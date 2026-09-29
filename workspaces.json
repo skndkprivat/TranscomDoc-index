@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "workspaces": [
+    {
+      "genesysOrgId": "9a332cae-9b4f-4103-9467-f03da72e15cc",
+      "genesysOrgName": "Titan",
+      "alias": "transcomtitan",
+      "label": "Transcom Titan",
+      "region": "eu-central-1",
+      "repository": "https://github.com/skndkprivat/TranscomDoc-transcomtitan.git",
+      "updatedAt": "2026-09-29T09:53:55.224Z",
+      "updatedBy": "skn_d"
+    }
+  ]
+}

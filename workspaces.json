@@ -2,6 +2,16 @@
   "version": 1,
   "workspaces": [
     {
+      "genesysOrgId": "a74864a6-f385-42fc-86ee-acd2a786cac4",
+      "genesysOrgName": "Sabio Denmark ApS",
+      "alias": "sabiodenmark",
+      "label": "Sabio Denmark",
+      "region": "mypurecloud.de",
+      "repository": "https://github.com/skndkprivat/TranscomDoc-sabiodenmark.git",
+      "updatedAt": "2026-09-29T09:56:25.669Z",
+      "updatedBy": "skn_d"
+    },
+    {
       "genesysOrgId": "68bdfc28-425f-4558-b8b9-75aa2731968c",
       "genesysOrgName": "Atlas",
       "alias": "transcom",

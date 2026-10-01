@@ -2,6 +2,16 @@
   "version": 1,
   "workspaces": [
     {
+      "genesysOrgId": "e4f8a7ba-1c97-4dbd-99e2-4a4d74f2d54a",
+      "genesysOrgName": "onlinefysioterapi-test",
+      "alias": "pensiondanmark",
+      "label": "Pension Danmark",
+      "region": "mypurecloud.de",
+      "repository": "https://github.com/skndkprivat/TranscomDoc-pensiondanmark.git",
+      "updatedAt": "2026-10-01T08:56:23.451Z",
+      "updatedBy": "skn_d"
+    },
+    {
       "genesysOrgId": "a74864a6-f385-42fc-86ee-acd2a786cac4",
       "genesysOrgName": "Sabio Denmark ApS",
       "alias": "sabiodenmark",
